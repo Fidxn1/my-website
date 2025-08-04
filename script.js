@@ -49,7 +49,7 @@ function showResults(query) {
             msg.style.color = '#ff0000';
             msg.style.fontSize = '2em';
             msg.style.textShadow = '0 0 20px #ff0000';
-            msg.textContent = "we suffer more in imagination than in our real life";
+            msg.textContent = "we suffer more in imagination than in real life";
             document.body.appendChild(msg);
             scarySound.play();
         });
